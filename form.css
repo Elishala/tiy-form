@@ -1,0 +1,20 @@
+input{
+  border: 1px dotted blue;
+  padding: 1em;
+  margin: 3em;
+}
+
+option{
+  border:1px dotted blue;
+
+}
+
+div{
+  padding:2px;
+}
+
+text-area{
+  border: 1px dotted blue;
+  padding: 1em;
+  margin: 3em;
+}
